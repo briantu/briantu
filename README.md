@@ -1,12 +1,10 @@
 ## Hi there! I'm Brian 👋 
-[![website](https://img.shields.io/website?down_color=lightgrey&down_message=down&label=briantu.tech&style=for-the-badge&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fbriantu.tech)](https://briantu.tech)
+- 🏫 I'm a 2nd year CS Student at the University of Waterloo
+- ⚡ Besides creating cool projects 💻, I love playing basketball 🏀 and guitar 🎸
+- 🌱 Passionate about gamifying learning 🎮
+- ⬇️ Feel free to check out my personal website! 🧍
 
-## I'm a Student, Hacker, and Guitarist!
-- 🏫 I'm a CS Student at the University of Waterloo
-- 👯 I love going to hackathons
-- 🌱 I’m interested in app and web dev (and much more!)
-- ⚡ Fun fact: I love playing the guitar 🎸
-- 🏦 Looking for internship and co-op opportunities!
+[![website](https://img.shields.io/website?down_color=lightgrey&down_message=down&label=briantu.tech&style=for-the-badge&up_color=brightgreen&up_message=up&url=https%3A%2F%2Fbriantu.tech)](https://briantu.tech)
 
 ### Spotify Playing 🎧
 [<img src="https://github-readme-spotify.vercel.app/api/spotify" alt="Spotify Playing" width="400" />](https://open.spotify.com/user/283bb069d90440dfbe71e70b4ef1d6f7)
