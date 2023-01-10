@@ -1,5 +1,5 @@
 ## Hi there! I'm Brian 👋 
-- 🏫 I'm a 2nd year CS Student at the University of Waterloo
+- 🏫 I'm a 3rd year CS Student at the University of Waterloo
 - ⚡ Besides creating cool projects 💻, I love playing basketball 🏀 and guitar 🎸
 - 🌱 Passionate about gamifying learning 🎮
 - ⬇️ Feel free to check out my personal website! 🧍
