@@ -1,6 +1,6 @@
 ## Hi there! I'm Brian 👋 
-- 🏫 I'm a 4th year CS Student at the University of Waterloo
-- ⚡ Besides creating cool projects 💻, I love playing basketball 🏀 and guitar 🎸
+- 🏫 I'm a CS grad (2025) from the University of Waterloo
+- ⚡ Besides creating cool projects 💻, I love playing sports 🏀 and guitar 🎸
 - 🌱 Passionate about gamifying learning 🎮
 - ⬇️ Feel free to check out my personal website! 🧍
 
