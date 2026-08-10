@@ -1,2 +1,2 @@
-# https://briantu.tech/
+# [briantu.tech](https://briantu.tech/)
 check me out
